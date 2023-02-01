@@ -261,16 +261,10 @@ h2 {
 
 @media (max-width: 768px) {
 
-    .ingreso{
+    .ingreso, .egreso{
         width:300px;
     }
-    .egreso{
-        width: 300px;
-    }
-    .ingreso_titulo{
-        text-align: center;
-    }
-    .egreso_titulo{
+    .ingreso_titulo, .egreso_titulo{
         text-align: center;
     }
     .elemento_descripcion{
